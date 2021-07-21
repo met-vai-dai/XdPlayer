@@ -19,7 +19,7 @@ XdPlayer is Javascript Video Player Library For HTML Video Player.
   }
 ```
 
-* Add Video Source And Poster For Your Video
+* Add Video Source And Poster For Your Video & Use Class ``` .xdPlayer ``` In Video Tag.
 ```
 <video class="xdPlayer" 
         width="100%" 
