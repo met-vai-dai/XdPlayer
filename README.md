@@ -19,7 +19,7 @@ XdPlayer is Javascript Video Player Library For HTML Video Player.
 
 ## Quick Start 📖
 
-* Like CSS & JS Files.
+* Link CSS & JS Files.
 
 * To Controls height & width of Video Player Use ``` .playerContainer ``` Class In Css For Change height & width Like This.
 ```
