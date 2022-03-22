@@ -34,7 +34,7 @@
 	background: #0000007d;
   }
   
-  .playerContainer:hover #video-controls {
+  .xdContainer:hover #video-controls {
 		opacity: .9;
   } 
   
@@ -196,7 +196,7 @@
 		background: #0000007d;
 	  }
 	  
-	  .playerContainer:hover #video-controls {
+	  .xdContainer:hover #video-controls {
 			opacity: .9;
 	  } 
 	  
