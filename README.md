@@ -6,9 +6,6 @@ XdPlayer is Javascript Video Player Library For HTML Video Player.
 ![Player ScreenShot](https://user-images.githubusercontent.com/72292920/126433708-1c719e50-4aa5-44f0-9a9b-b1d3fec1030d.png)
 
 
-https://user-images.githubusercontent.com/72292920/171181560-5f2222c8-d5f5-4671-9ee3-acaa0a8f4c43.mp4
-
-
 ## Video Player Functions
 1. Play/Pause.
 2. Lock Controls.
